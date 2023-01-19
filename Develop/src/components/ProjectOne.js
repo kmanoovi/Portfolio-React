@@ -1,2 +1,12 @@
 import React from 'react';
-import { useQuery } from '@apollo/client';
+
+function ProjectOne() {
+  return (
+    <div>
+      <h1>This is Project One</h1>
+      <h2>About Project One</h2>
+    </div>
+  );
+}
+
+export default ProjectOne;
