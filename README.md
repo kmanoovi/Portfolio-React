@@ -8,6 +8,6 @@
  This portfolio was created using React.
 
  ## Links
-[Github]()
-[LinkedIn]()
+[Github](https://github.com/kmanoovi/)
+[LinkedIn](https://www.linkedin.com/in/katie-mandovi-931354246/)
  
