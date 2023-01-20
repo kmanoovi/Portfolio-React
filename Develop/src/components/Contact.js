@@ -18,13 +18,17 @@ const styles = {
     },
   };
 
-function Home() {
+function Contact() {
   return (
     <div style={styles.card}>
-      <div style={styles.heading}>Welcome to Katrina's Web Development Portfolio</div>
-      <div style={styles.content}>`Created with React`</div>
+      <div style={styles.heading}>Contact Me</div>
+      <div style={styles.content}>
+        `Email: ktmandovi@gmail.com
+        LinkedIn[]
+        GitHub[]`
+      </div>
     </div>
   );
 }
 
-export default Home;
+export default Contact;

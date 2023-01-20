@@ -18,13 +18,15 @@ const styles = {
     },
   };
 
-function Home() {
+function Resume() {
   return (
     <div style={styles.card}>
-      <div style={styles.heading}>Welcome to Katrina's Web Development Portfolio</div>
-      <div style={styles.content}>`Created with React`</div>
+      <div style={styles.heading}>Katrina's Resume</div>
+      <div style={styles.content}>
+        ` `
+      </div>
     </div>
   );
 }
 
-export default Home;
+export default Resume;

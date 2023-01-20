@@ -1,12 +1,12 @@
 import './Portfolio.css';
-import ProjectOne from './components/ProjectOne';
+import AboutMe from './components/AboutMe';
 
 function ProjectOne() {
   return (
-    <div className="project-one">
-      <ProjectOne />
+    <div className="about-me">
+      <AboutMe />
     </div>
   );
 }
 
-export default ProjectOne;
+export default AboutMe;
